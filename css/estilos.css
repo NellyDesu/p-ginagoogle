@@ -2,34 +2,55 @@
   color: rgb(66, 66, 66);
   font-family: sans-serif;
 }
-/*.container{
-  max-width: 1000px;
+.container{
+  max-width: 800px;
   margin: 0px auto;
-}*/
+}
 
 #header{
   width: 100%;
-  padding-right: 20px;
+  padding-right: 4px;
   padding-top: 20px;
   display: inline-block;
-  float: right;
 }
 
+#head_1{
+  display:inline-block;
+  width: 5%;
+  font-size: 15px;
+  text-align: left;
+  padding-right: 7px;
+  position: relative;
+  right: -950px;
+}
 #menu_apps{
-  display: inline-block;
-  max-width:20px;
-  max-height:20px;
-  float: right;
+  display:inline-block;
+  max-width: 20px;
+  max-height: 20px;
+  width: 5%;
+  font-size: 15px;
+  text-align: left;
+  padding-right: 7px;
+  position: relative;
+  right: -950px;
 
 
 }
 
 #sesion{
+  display:inline-block;
+  width: 5%;
+  font-size: 15px;
+  text-align: left;
+  padding-right: 7px;
+  position: relative;
+  right: 55px;
+  top: -4px;
   color: #ffffff;
-  text-align:center;
+  text-align: center;
   font-weight: bold;
   width: 120px;
-  height: 25px;
+  height: 28px;
   background-color: rgb(39, 111, 250);
   border-radius: 3px;
   float: right;
@@ -40,7 +61,7 @@ a{
 }
 
 #logo{
-  padding-top:140px;
+  padding-top:70px;
   padding-left: 480px;
 }
 
@@ -92,7 +113,7 @@ footer{
   width: 100%;
   height: 40px;
   background-color: rgb(237, 238, 238);
-  margin-top: 100px;
+  margin-top: 130px;
 }
 
 #foot_1{
