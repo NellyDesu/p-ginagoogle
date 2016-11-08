@@ -2,3 +2,88 @@
   color: rgb(66, 66, 66);
   font-family: sans-serif;
 }
+/*.container{
+  max-width: 1000px;
+  margin: 0px auto;
+}*/
+
+#header{
+  width: 100%;
+  padding-right: 20px;
+  padding-top: 20px;
+  display: inline-block;
+  float: right;
+}
+
+#menu_apps{
+  display: inline-block;
+  max-width:20px;
+  max-height:20px;
+  float: right;
+
+
+}
+
+#sesion{
+  color: #ffffff;
+  text-align:center;
+  font-weight: bold;
+  width: 120px;
+  height: 25px;
+  background-color: rgb(39, 111, 250);
+  border-radius: 3px;
+  float: right;
+}
+a{
+  text-decoration: none;
+  float: right;
+}
+
+#logo{
+  padding-top:140px;
+  padding-left: 480px;
+}
+
+#buscador{
+  width: 500px;
+  height: 40px;
+  border: 1px rgb(184, 186, 190) solid;
+  position: relative;
+  margin-left: 420px;
+
+}
+
+#micro{
+  float: right;
+  padding-top: 10px;
+  padding-right: 5px;
+}
+
+#botones_buscador{
+  margin-top: 80px;
+}
+
+#buscar_google{
+  color: rgb(78, 78, 78);
+  width: 170px;
+  height: 30px;
+  background-color: rgb(237, 238, 238);
+  border-radius: 2px;
+  margin-left: 460px;
+}
+
+#suerte{
+  color: rgb(78, 78, 78);
+  width: 170px;
+  height: 30px;
+  background-color: rgb(237, 238, 238);
+  border-radius: 2px;
+  margin-left: 700px;
+  margin-top: -45px;
+}
+
+p{
+  text-align: center;
+  padding-top: 3px;
+
+}
