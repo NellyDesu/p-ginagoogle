@@ -51,10 +51,12 @@
   font-weight: bold;
   width: 120px;
   height: 28px;
+  line-height: 28px;
   background-color: rgb(39, 111, 250);
   border-radius: 3px;
   float: right;
 }
+
 a{
   text-decoration: none;
   float: right;
